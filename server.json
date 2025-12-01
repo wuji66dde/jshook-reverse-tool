@@ -1,0 +1,39 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.wuji1/jshook-reverse-tool",
+  "description": "AI-powered JavaScript reverse engineering tool with 80+ MCP tools for browser automation, debugging, network monitoring, and intelligent hooking",
+  "version": "0.1.0",
+  "homepage": "https://github.com/wuji1/jshook-reverse-tool",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "javascript",
+    "reverse-engineering",
+    "browser-automation",
+    "debugging",
+    "deobfuscation",
+    "crypto-detection",
+    "hook",
+    "ai-powered",
+    "puppeteer",
+    "chrome-devtools",
+    "network-monitoring",
+    "anti-detection",
+    "captcha"
+  ],
+  "packages": [
+    {
+      "registry_type": "npm",
+      "identifier": "jshook-reverse-tool",
+      "version": "0.1.0"
+    }
+  ],
+  "author": {
+    "name": "wuji1",
+    "url": "https://github.com/wuji1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuji1/jshook-reverse-tool.git"
+  }
+}
